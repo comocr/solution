@@ -12,3 +12,8 @@ Engine
 ProofEditor
 ---
 ##### To compare and correct
+
+Development
+---
+
+- Create symlinks from Setup
