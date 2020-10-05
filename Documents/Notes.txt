@@ -1,0 +1,8 @@
+Todo:
+	1. Settings reset
+		Not meant to be a part of installer but the program
+
+	2. User install
+		Without admin rights
+
+	3. Fonts in %ProgramData%
