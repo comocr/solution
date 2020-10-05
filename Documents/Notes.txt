@@ -6,3 +6,5 @@ Todo:
 		Without admin rights
 
 	3. Fonts in %ProgramData%
+
+	4. File open dialog when no file passed
