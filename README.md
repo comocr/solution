@@ -17,3 +17,5 @@ Development
 ---
 
 - Create symlinks from Setup
+- Copy vcproj.user file
+- Install Config.reg files
